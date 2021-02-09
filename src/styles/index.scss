@@ -1,5 +1,30 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+#container{
+    background: black;
+    position: relative;
+    width: 200px;
+    height: 400px;
+}
+.luzred{
+    background: red;
+    border-radius: 30px;
+    
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 80%;
+    opacity: 0.3;
+}
+.active{
+    opacity: 1;
+}
+
+
+
+
+
 /* 
 
     You can write your own styles here...
